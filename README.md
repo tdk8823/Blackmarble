@@ -2,5 +2,4 @@
 
 ![timelapse](https://github.com/tdk8823/Blackmarble/blob/main/data/timelapse/timelapse_caption.gif "timelapse")
 
-https://qiita.com/tdk8823/items/f1a80007dc867eecfb43
-
+https://tdk8823.hatenablog.com/entry/2021/06/15/195944
